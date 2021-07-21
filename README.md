@@ -6,6 +6,8 @@ This page contains documentations for KygekTeam staffs, contributors and all use
 
 - Coding standards
   - [PHP Language](/coding-standards/php.md)
+- Plugins
+  - [PocketMine-MP 4](/plugins/pocketmine-mp-4.md)
 
 ## Contributing
 
