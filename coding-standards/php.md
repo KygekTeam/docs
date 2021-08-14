@@ -96,3 +96,5 @@ class ExampleClass {
 
 }
 ```
+
+For an example of a plugin which applies the standards above, please see [KygekExamplePlugin](https://github.com/KygekTeam/KygekExamplePlugin) plugin.
