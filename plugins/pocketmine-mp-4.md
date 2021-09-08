@@ -19,8 +19,5 @@ Plugins listed below are ready to be used by users which have enough knowledge. 
 ### KygekEasyGamemode
 [Download (Poggit CI)](https://poggit.pmmp.io/ci/KygekTeam/KygekEasyGamemode/~) | [Source Code](https://github.com/KygekTeam/KygekEasyGamemode/tree/pm4)
 
-### KygekEasyGamemode
-[Download (Poggit CI)](https://poggit.pmmp.io/ci/KygekTeam/KygekEasyGamemode/~) | [Source Code](https://github.com/KygekTeam/KygekEasyGamemode/tree/pm4)
-
 ### KygekPingTPS
 [Download (Poggit CI)](https://poggit.pmmp.io/ci/KygekTeam/KygekPingTPS/~) | [Source Code](https://github.com/KygekTeam/KygekPingTPS/tree/pm4)
