@@ -8,6 +8,8 @@ This page contains documentations for KygekTeam staffs, contributors and all use
   - [PHP Language](/coding-standards/php.md)
 - Plugins
   - [PocketMine-MP 4](/plugins/pocketmine-mp-4.md)
+- Questions
+  - [English Type](/questions/english-type.md)
 
 ## Contributing
 
