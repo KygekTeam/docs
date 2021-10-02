@@ -23,3 +23,9 @@ For the current progress of making PocketMine-MP 4 version of all existing Kygek
 
 ### KygekPingTPS
 [Download (Poggit CI)](https://poggit.pmmp.io/ci/KygekTeam/KygekPingTPS/~) | [Source Code](https://github.com/KygekTeam/KygekPingTPS/tree/pm4)
+
+### KygekLastPosition
+[Download (Poggit CI)](https://poggit.pmmp.io/ci/KygekTeam/KygekLastPosition/~) | [Source Code](https://github.com/KygekTeam/KygekLastPosition/tree/pm4)
+
+### KygekClearConsole
+[Download (Poggit CI)](https://poggit.pmmp.io/ci/KygekTeam/KygekClearConsole/~) | [Source Code](https://github.com/KygekTeam/KygekClearConsole/tree/pm4)
