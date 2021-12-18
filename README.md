@@ -17,8 +17,8 @@ This documentation is currently under development. All contributions are welcome
 
 ## External Links
 
-- [Main KygekTeam website](https://kygekteam.org)
-- [KygekTeam Blog](https://blog.kygekteam.org)
-- [KygekTeam Forum](https://forum.kygekteam.org)
+- [Main KygekTeam website](https://kygek.team)
+- [KygekTeam Blog](https://blog.kygek.team)
+- [KygekTeam Forum](https://forum.kygek.team)
 - [KygekTeam Discord server](https://discord.gg/CXtqUZv)
 - [KygekTeam GitHub organization profile](https://github.com/KygekTeam)
