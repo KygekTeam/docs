@@ -10,29 +10,10 @@ Plugins listed below are ready to be used for production servers, but like all s
 
 For the current progress of making PocketMine-MP 4 version of all existing KygekTeam PocketMine-MP 3 plugins, please visit [this URL](https://github.com/orgs/KygekTeam/projects/1).
 
-### KygekJoinUI
-[Download (Poggit CI)](https://poggit.pmmp.io/ci/KygekTeam/KygekJoinUI/~) | [Source Code](https://github.com/KygekTeam/KygekJoinUI/tree/pm4)
+### What each columns mean?
 
-### KygekRulesUI
-[Download (Poggit CI)](https://poggit.pmmp.io/ci/KygekTeam/KygekRulesUI/~) | [Source Code](https://github.com/KygekTeam/KygekRulesUI/tree/pm4)
-
-### KygekEasyGamemode
-[Download (Poggit CI)](https://poggit.pmmp.io/ci/KygekTeam/KygekEasyGamemode/~) | [Source Code](https://github.com/KygekTeam/KygekEasyGamemode/tree/pm4)
-
-### KygekPingTPS
-[Download (Poggit CI)](https://poggit.pmmp.io/ci/KygekTeam/KygekPingTPS/~) | [Source Code](https://github.com/KygekTeam/KygekPingTPS/tree/pm4)
-
-### KygekLastPosition
-[Download (Poggit CI)](https://poggit.pmmp.io/ci/KygekTeam/KygekLastPosition/~) | [Source Code](https://github.com/KygekTeam/KygekLastPosition/tree/pm4)
-
-### KygekClearConsole
-[Download (Poggit CI)](https://poggit.pmmp.io/ci/KygekTeam/KygekClearConsole/~) | [Source Code](https://github.com/KygekTeam/KygekClearConsole/tree/pm4)
-
-### KygekWhitelistKick
-[Download (Poggit CI)](https://poggit.pmmp.io/ci/KygekTeam/KygekWhitelistKick/~) | [Source Code](https://github.com/KygekTeam/KygekWhitelistKick/tree/pm4)
-
-### KygekRanksUI
-[Download (Poggit CI)](https://poggit.pmmp.io/ci/KygekTeam/KygekRanksUI/~) | [Source Code](https://github.com/KygekTeam/KygekRanksUI/tree/pm4)
-
-### KygekEatHeal
-[Download (Poggit CI)](https://poggit.pmmp.io/ci/KygekTeam/KygekEatHeal/~) | [Source Code](https://github.com/KygekTeam/KygekEatHeal/tree/pm4)
+- **TODO**: Plugins that not yet support PocketMine-MP 4 but yet to be updated
+- **In Progress**: Plugins that are being updated to PocketMine-MP 4
+- **Done, Needs Updating**: Plugins that have supported PocketMine-MP 4 but needs changes for bug fixes or other improvements
+- **Done**: Plugins that have supported PocketMine-MP 4 and are ready to use for testing
+- **Released on Poggit**: Plugins that have supported PocketMine-MP 4 and are guaranteed being stable you can use for production safely
