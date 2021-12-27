@@ -12,8 +12,9 @@ For the current progress of making PocketMine-MP 4 version of all existing Kygek
 
 ### What each columns mean?
 
-- **TODO**: Plugins that not yet support PocketMine-MP 4 but yet to be updated
-- **In Progress**: Plugins that are being updated to PocketMine-MP 4
-- **Done, Needs Updating**: Plugins that have supported PocketMine-MP 4 but needs changes for bug fixes or other improvements
-- **Done**: Plugins that have supported PocketMine-MP 4 and are ready to use for testing
-- **Released on Poggit**: Plugins that have supported PocketMine-MP 4 and are guaranteed being stable you can use for production safely
+- **To Do**: Plugins that not yet support PocketMine-MP 4 but yet to be updated
+- **In Progress:** Plugins that are being updated to PocketMine-MP 4
+- **Done, Needs Updating:** Plugins that have supported PocketMine-MP 4 but needs changes for bug fixes or other improvements
+- **Done:** Plugins that have supported PocketMine-MP 4 and are ready to use for testing
+- **Released on Poggit:** Plugins that have supported PocketMine-MP 4 released on Poggit that are guaranteed being stable you can use for production safely
+- **Released on GitHub Releases:** Plugins that have supported PocketMine-MP 4 released on GitHub Releases that are guaranteed being stable you can use for production safely
