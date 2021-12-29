@@ -12,7 +12,7 @@ For the current progress of making PocketMine-MP 4 version of all existing Kygek
 
 ### What each columns mean?
 
-- **To Do**: Plugins that not yet support PocketMine-MP 4 but yet to be updated
+- **To Do:** Plugins that not yet support PocketMine-MP 4 but yet to be updated
 - **In Progress:** Plugins that are being updated to PocketMine-MP 4
 - **Done, Needs Updating:** Plugins that have supported PocketMine-MP 4 but needs changes for bug fixes or other improvements
 - **Done:** Plugins that have supported PocketMine-MP 4 and are ready to use for testing
