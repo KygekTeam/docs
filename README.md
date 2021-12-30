@@ -1,8 +1,3 @@
----
-title: KygekTeam Documentation
-description: Documentations for KygekTeam staffs, contributors and all users
----
-
 # Welcome to the KygekTeam Documentation!
 
 This page contains documentations for KygekTeam staffs, contributors and all users.
