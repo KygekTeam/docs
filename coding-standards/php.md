@@ -1,4 +1,6 @@
-# PHP Coding Standards for KygekTeam Projects
+---
+title: PHP Coding Standards for KygekTeam Projects
+---
 
 This documentation applies to all PHP source code modifications in all of KygekTeam projects (commits, pull requests, etc). We enforce a **very high standard** for coding standards to ensure maxiumum consistency and readability. Failing to meet our standards will result in the rejection of PHP source code modification. Please read and see our example before modifying PHP source code(s) belonging to KygekTeam.
 
