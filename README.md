@@ -2,6 +2,14 @@
 
 This page contains documentations for KygekTeam staffs, contributors and all users.
 
+---
+
+## IMPORTANT
+
+We're looking for someone that's interested becoming the new leader of KygekTeam. Please visit [this page](https://kygek.team/lookingfornewleader) for more information.
+
+---
+
 ## Contents
 
 - Coding standards
