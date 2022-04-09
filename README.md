@@ -6,7 +6,7 @@ This page contains documentations for KygekTeam staffs, contributors and all use
 
 ## IMPORTANT
 
-We're looking for someone that's interested becoming the new leader of KygekTeam. Please visit [this page](https://kygek.team/lookingfornewleader) for more information.
+We're looking for people that are interested to maintain our repositories, including our PocketMine-MP plugins and other notable projects. For more information, please visit [this page](https://kygek.team/lookingfornewmaintainer).
 
 ---
 
